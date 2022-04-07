@@ -1,5 +1,5 @@
 import React from 'react'
-import './OutputRow.css';
+import './outputRow.css';
 
 const OutputRow = (props) => {
   return (
